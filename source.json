@@ -1,0 +1,20 @@
+{
+	"name" : "TZ Martin",
+	"company": "Semantic Press, Inc.",
+	"blog": "http://twitter.com/tzmartin",
+	"current_location": "Mountain View, CA",
+	"locations" : [
+		{"city":"San Francisco","state":"CA"},
+		{"city":"Buffalo","state":"NY"},
+		{"city":"Santa Monica","state":"CA"},
+		{"city":"Raleigh","state":"NC"},
+		{"city":"Dallas","state":"TX"},
+		{"city":"Joplin","state":"MO"}
+	],	"description" : "Designer and coder. Founder of Semantic Press.",
+	"avatar_url": "https://avatars.githubusercontent.com/u/139472?v=3",
+	"organizations_url": "https://api.github.com/users/tzmartin/orgs",
+	"languages" : [
+		"English",
+		"Chinese"
+	]
+}
