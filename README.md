@@ -3,6 +3,10 @@
 Easily create a RESTful interface to JSON documents hosted on Google App Engine.
 
 > Only supports GET requests
+
+## Demo
+
+[http://gae-instantapi.appspot.com](http://gae-instantapi.appspot.com)
 	
 ## Example
 
@@ -10,7 +14,7 @@ Easily create a RESTful interface to JSON documents hosted on Google App Engine.
 
 You could use this: 
 
-`http://gae-instantapi.appspot.com/locations/0/city`
+`http://gae-instantapi.appspot.com/locations/0`
 
 To retrieve this:
 
